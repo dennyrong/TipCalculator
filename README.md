@@ -1,5 +1,4 @@
 # TipCalculator
-=============
 
 (weekly project submission README))
 
