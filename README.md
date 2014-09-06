@@ -20,4 +20,4 @@ Extended features:
  * [x] Using sliderBar to set three different tip rate
 
 Walkthrough of all user stories:
-
+![Video Walkthrough](demo_1.gif)
