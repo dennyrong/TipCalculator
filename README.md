@@ -21,8 +21,11 @@ Extended features:
 
 Walkthrough of all user stories:
 
+## Main View
 ![Video Walkthrough](demo_1.gif)
 
+## Setting currency
 ![Video Walkthrough](demo_2.gif)
 
+## Setting tip rate
 ![Video Walkthrough](demo_3.gif)
