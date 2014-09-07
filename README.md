@@ -29,3 +29,5 @@ Walkthrough of all user stories:
 
 ## Setting tip rate
 ![Video Walkthrough](demo_3.gif)
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
