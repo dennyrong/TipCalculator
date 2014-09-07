@@ -21,7 +21,8 @@ Extended features:
 
 Walkthrough of all user stories:
 
-
+![Video Walkthrough](demo_1.gif)
 
 ![Video Walkthrough](demo_2.gif)
 
+![Video Walkthrough](demo_3.gif)
