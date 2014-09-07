@@ -32,7 +32,7 @@ class ViewController: UIViewController {
     var currency = 1.0
     
     var symbols = ["￥","$", "€"]
-    var currencies = [6.13, 1.0, 1.5]
+    var currencies = [6.1760, 1.0, 0.7451]
     
     override func viewDidLoad() {
         super.viewDidLoad()
